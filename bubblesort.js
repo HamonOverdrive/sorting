@@ -17,5 +17,6 @@ function bubbleSort(array) {
         }
         rounds--;
     }
+    console.log(array)
     return array;
 }
